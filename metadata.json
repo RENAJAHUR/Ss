@@ -1,0 +1,6 @@
+{
+  "name": "Jahur PDF AI Pro",
+  "description": "Powerful all-in-one PDF Editor, viewer, annotator, page manager, PDF tools, OCR, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
